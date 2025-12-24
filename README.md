@@ -18,7 +18,6 @@ Currently building real-world projects and exploring new technologies to enhance
 - Includes data visualization and ML model implementation  
 - [Project README](https://github.com/parthtank911/3D_Printer_Prediction_2025/blob/main/README.md) contains detailed instructions to run the project  
 
-*(You can add more projects here as you create them)*
 
 ---
 
@@ -43,7 +42,7 @@ Currently building real-world projects and exploring new technologies to enhance
 ---
 
 ## 📫 Contact Me
-- 📧 Email: parthtank911@gmail.com *(replace with your professional email)*   
+- 📧 Email: parthtank911@gmail.com    
 
 ---
 
