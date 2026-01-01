@@ -1,51 +1,57 @@
-# Hi there 👋, I'm Parth Tank
+# 👋 Hi, I’m Parth Tank
+**Full-Stack Developer | Machine Learning Enthusiast | Open Source Contributor**
 
-## 👨‍💻 About Me
-I am a **Computer Engineering Student** passionate about **Machine Learning, Web Development, and Open Source Contribution**.  
-Currently building real-world projects and exploring new technologies to enhance my skills.
-
-- 🌱 Currently learning: **AI & Full-Stack Web Development**  
-- 💻 Skills: **Python | JavaScript | C++ | React | Node.js | MySQL | Git**  
-- ⚡ Fun fact: I love solving coding challenges and building practical projects  
+💻 I build modern web applications and ML projects.  
+🚀 Currently exploring **Vue.js, React, Node.js, Express, and MySQL**.  
+🌱 Learning **AI-powered predictive systems** and real-time web apps.  
 
 ---
 
-## 📂 Projects
+## 🛠️ Tech Stack
 
-### 1. [3D_Printer_Prediction_2025](https://github.com/parthtank911/3D_Printer_Prediction_2025)
-- **Tech:** Python, Machine Learning, Jupyter Notebook  
-- Predicts 3D printer faults using movement data (X, Y, Z)  
-- Includes data visualization and ML model implementation  
-- [Project README](https://github.com/parthtank911/3D_Printer_Prediction_2025/blob/main/README.md) contains detailed instructions to run the project  
-
-
----
-
-## 🛠️ Skills & Tech Stack
-
-### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=FFE873)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-333333?style=for-the-badge&logo=c%2B%2B)
-![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
-
-### **Web & Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=for-the-badge&logo=visual-studio-code)
+**Frontend:** React.js, Vue.js, HTML, CSS, JavaScript, Bootstrap  
+**Backend:** Node.js, Express.js  
+**Database:** MySQL, MongoDB  
+**Machine Learning:** Python, Pandas, NumPy, Scikit-Learn  
+**Tools & Platforms:** Git, GitHub, VS Code, Postman
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: parthtank911@gmail.com    
+## 📂 Pinned Projects
+
+### 1️⃣ 3D Printer Fault Prediction
+Predict faults in 3D printers using ML.  
+**Tech:** Python, Jupyter Notebook, Pandas, Scikit-Learn  
+[Repository Link](https://github.com/parthtank911/3D_Printer_Prediction_2025)
+
+### 2️⃣ Quiz App
+A full-stack online quiz platform with authentication and dashboard.  
+**Tech:** React, Node.js, Express, MySQL  
+[Repository Link](https://github.com/parthtank911/quiz-app)
+
+### 3️⃣ Real-Time Chat App
+Real-time messaging application using WebSocket.  
+**Tech:** JavaScript, Node.js, Socket.io  
+[Repository Link](https://github.com/parthtank911/real-time-chat-app)
+
+### 4️⃣ GitHub Profile README
+Personal GitHub profile README with skills and project highlights.  
+**Tech:** Markdown, GitHub  
+[Repository Link](https://github.com/parthtank911/parthtank911)
 
 ---
 
-## 🌟 GitHub Stats
-![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthtank911&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthtank911&layout=compact&theme=radical)
+## 📈 GitHub Stats
+
+![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthtank911&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/parth-tank-911/)  
+- [Email](mailto:parthtank911@example.com)  
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
